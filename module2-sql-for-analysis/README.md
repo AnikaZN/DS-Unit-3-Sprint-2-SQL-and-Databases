@@ -3,6 +3,8 @@
 SQL is simple, but surprisingly powerful - many data pipelines start, and even
 end, with it.
 
+This is a change to the README.md
+
 ## Learning Objectives
 
 - deploy and use a simple PostgreSQL database
